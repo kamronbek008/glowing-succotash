@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.MAIN{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(131, 253, 131);
+   
+}
+
+.asosiy{
+    width: 50%;
+    height: 398px;
+    background-color: green;
+    display: flex;
+}
+.navigation{
+    height: 50px;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    border: 1px solid gray;
+}
+p{
+    flex: 1;
+    margin-top: 10px;
+}
+.fa-heart{
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.rasm{
+    height: 450px;
+    
+}
+.classic{
+    height: 398px;
+    background-color: #fff;
+    width: 100%;
+    border: 1px solid gray;
+}
+.title{
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.title-2{
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+.kaka{
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.item{
+    margin-left: 50px;
+    font-size: 25px;
+}
+.items{
+    height: 50px;
+    width: 120px;
+    margin-left: 50px;
+}
+.items-1{
+    height: 50px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 4px;
+}
